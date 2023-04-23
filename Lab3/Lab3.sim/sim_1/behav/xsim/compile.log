@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/University Courses/SC2103/SC2103_Lab3/multA.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module multA
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/University Courses/SC2103/SC2103_Lab3/multB.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module multB

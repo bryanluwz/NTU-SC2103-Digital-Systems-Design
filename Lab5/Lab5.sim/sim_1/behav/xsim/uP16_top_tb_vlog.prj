@@ -1,0 +1,20 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../../SC2103_Lab5/up16_Lab5_src/Data_mem.v" \
+"../../../../../SC2103_Lab5/up16_Lab5_src/EX_Mem_PR.v" \
+"../../../../../SC2103_Lab5/up16_Lab5_src/EX_stage.v" \
+"../../../../../SC2103_Lab5/up16_Lab5_src/ID_EX_PR.v" \
+"../../../../../SC2103_Lab5/up16_Lab5_src/ID_stage.v" \
+"../../../../../SC2103_Lab5/up16_Lab5_src/IF_ID_PR.v" \
+"../../../../../SC2103_Lab5/up16_Lab5_src/IF_stage.v" \
+"../../../../../SC2103_Lab5/up16_Lab5_src/Instruct_mem.v" \
+"../../../../../SC2103_Lab5/up16_Lab5_src/Mem_WB_PR.v" \
+"../../../../../SC2103_Lab5/up16_Lab5_src/Mem_stage.v" \
+"../../../../../SC2103_Lab5/up16_Lab5_src/uP16_top.v" \
+"../../../../../SC2103_Lab5/uP16_top_tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

@@ -1,0 +1,16 @@
+0.6
+2018.3
+Dec  7 2018
+00:33:28
+F:/University Courses/SC2103/Lab4/Lab4.sim/sim_1/behav/xsim/glbl.v,1544155482,verilog,,,,glbl,,,,,,,,
+F:/University Courses/SC2103/SC2103_Lab4/uP16_top_tb.v,1611303800,verilog,,,,uP16_top_tb,,,,,,,,
+F:/University Courses/SC2103/SC2103_Lab4/uP_src/Data_mem.v,1611305468,verilog,,F:/University Courses/SC2103/SC2103_Lab4/uP_src/EX_Mem_PR.v,,D_mem,,,,,,,,
+F:/University Courses/SC2103/SC2103_Lab4/uP_src/EX_Mem_PR.v,1389832646,verilog,,F:/University Courses/SC2103/SC2103_Lab4/uP_src/EX_stage.v,,EX_Mem_PR,,,,,,,,
+F:/University Courses/SC2103/SC2103_Lab4/uP_src/EX_stage.v,1411004912,verilog,,F:/University Courses/SC2103/SC2103_Lab4/uP_src/ID_EX_PR.v,,ALU;EX_stage,,,,,,,,
+F:/University Courses/SC2103/SC2103_Lab4/uP_src/ID_EX_PR.v,1410927732,verilog,,F:/University Courses/SC2103/SC2103_Lab4/uP_src/ID_stage.v,,ID_EX_PR,,,,,,,,
+F:/University Courses/SC2103/SC2103_Lab4/uP_src/ID_stage.v,1413771990,verilog,,F:/University Courses/SC2103/SC2103_Lab4/uP_src/IF_ID_PR.v,,Control;ID_stage;Reg_File,,,,,,,,
+F:/University Courses/SC2103/SC2103_Lab4/uP_src/IF_ID_PR.v,1389832406,verilog,,F:/University Courses/SC2103/SC2103_Lab4/uP_src/IF_stage.v,,IF_ID_PR,,,,,,,,
+F:/University Courses/SC2103/SC2103_Lab4/uP_src/IF_stage.v,1542946872,verilog,,F:/University Courses/SC2103/SC2103_Lab4/uP_src/Instruct_mem.v,,IF_stage,,,,,,,,
+F:/University Courses/SC2103/SC2103_Lab4/uP_src/Instruct_mem.v,1678430598,verilog,,F:/University Courses/SC2103/SC2103_Lab4/uP_src/Mem_stage.v,,I_mem,,,,,,,,
+F:/University Courses/SC2103/SC2103_Lab4/uP_src/Mem_stage.v,1611276428,verilog,,F:/University Courses/SC2103/SC2103_Lab4/uP_src/uP16_top.v,,Mem_stage,,,,,,,,
+F:/University Courses/SC2103/SC2103_Lab4/uP_src/uP16_top.v,1611303076,verilog,,F:/University Courses/SC2103/SC2103_Lab4/uP16_top_tb.v,,uP16_top,,,,,,,,

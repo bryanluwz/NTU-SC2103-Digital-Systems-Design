@@ -1,0 +1,12 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../../SC2103_Lab3/AM_top.v" \
+"../../../../../SC2103_Lab3/multA.v" \
+"../../../../../SC2103_Lab3/multB.v" \
+"../../../../../SC2103_Lab3/AM_top_tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

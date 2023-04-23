@@ -1,0 +1,17 @@
+0.6
+2018.3
+Dec  7 2018
+00:33:28
+F:/University Courses/SC2103/Lab5/Lab5.sim/sim_1/behav/xsim/glbl.v,1544155482,verilog,,,,glbl,,,,,,,,
+F:/University Courses/SC2103/SC2103_Lab5/uP16_top_tb.v,1611303800,verilog,,,,uP16_top_tb,,,,,,,,
+F:/University Courses/SC2103/SC2103_Lab5/up16_Lab5_src/Data_mem.v,1611305468,verilog,,F:/University Courses/SC2103/SC2103_Lab5/up16_Lab5_src/EX_Mem_PR.v,,D_mem,,,,,,,,
+F:/University Courses/SC2103/SC2103_Lab5/up16_Lab5_src/EX_Mem_PR.v,1414385400,verilog,,F:/University Courses/SC2103/SC2103_Lab5/up16_Lab5_src/EX_stage.v,,EX_Mem_PR,,,,,,,,
+F:/University Courses/SC2103/SC2103_Lab5/up16_Lab5_src/EX_stage.v,1612246392,verilog,,F:/University Courses/SC2103/SC2103_Lab5/up16_Lab5_src/ID_EX_PR.v,,ALU;EX_stage,,,,,,,,
+F:/University Courses/SC2103/SC2103_Lab5/up16_Lab5_src/ID_EX_PR.v,1414383452,verilog,,F:/University Courses/SC2103/SC2103_Lab5/up16_Lab5_src/ID_stage.v,,ID_EX_PR,,,,,,,,
+F:/University Courses/SC2103/SC2103_Lab5/up16_Lab5_src/ID_stage.v,1679640582,verilog,,F:/University Courses/SC2103/SC2103_Lab5/up16_Lab5_src/IF_ID_PR.v,,Control;DF_control;ID_stage;Reg_File,,,,,,,,
+F:/University Courses/SC2103/SC2103_Lab5/up16_Lab5_src/IF_ID_PR.v,1389832406,verilog,,F:/University Courses/SC2103/SC2103_Lab5/up16_Lab5_src/IF_stage.v,,IF_ID_PR,,,,,,,,
+F:/University Courses/SC2103/SC2103_Lab5/up16_Lab5_src/IF_stage.v,1542946872,verilog,,F:/University Courses/SC2103/SC2103_Lab5/up16_Lab5_src/Instruct_mem.v,,IF_stage,,,,,,,,
+F:/University Courses/SC2103/SC2103_Lab5/up16_Lab5_src/Instruct_mem.v,1679642002,verilog,,F:/University Courses/SC2103/SC2103_Lab5/up16_Lab5_src/Mem_WB_PR.v,,I_mem,,,,,,,,
+F:/University Courses/SC2103/SC2103_Lab5/up16_Lab5_src/Mem_WB_PR.v,1414385802,verilog,,F:/University Courses/SC2103/SC2103_Lab5/up16_Lab5_src/Mem_stage.v,,Mem_WB_PR,,,,,,,,
+F:/University Courses/SC2103/SC2103_Lab5/up16_Lab5_src/Mem_stage.v,1612246316,verilog,,F:/University Courses/SC2103/SC2103_Lab5/up16_Lab5_src/uP16_top.v,,Mem_stage,,,,,,,,
+F:/University Courses/SC2103/SC2103_Lab5/up16_Lab5_src/uP16_top.v,1414385724,verilog,,F:/University Courses/SC2103/SC2103_Lab5/uP16_top_tb.v,,uP16_top,,,,,,,,

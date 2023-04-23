@@ -1,0 +1,10 @@
+0.6
+2018.3
+Dec  7 2018
+00:33:28
+F:/University Courses/SC2103/Lab3/Lab3.sim/sim_1/behav/xsim/glbl.v,1544155482,verilog,,,,glbl,,,,,,,,
+F:/University Courses/SC2103/SC2103_Lab3/AM_top.v,1676617692,verilog,,F:/University Courses/SC2103/SC2103_Lab3/multA.v,,AM_top,,,,,,,,
+F:/University Courses/SC2103/SC2103_Lab3/AM_top_tb.v,1611119622,verilog,,,,AM_top_tb,,,,,,,,
+F:/University Courses/SC2103/SC2103_Lab3/array_mult_6bit.v,1568260606,verilog,,F:/University Courses/SC2103/SC2103_Lab3/AM_top_tb.v,,array_mult_6bit,,,,,,,,
+F:/University Courses/SC2103/SC2103_Lab3/multA.v,1611043724,verilog,,F:/University Courses/SC2103/SC2103_Lab3/multB.v,,multA,,,,,,,,
+F:/University Courses/SC2103/SC2103_Lab3/multB.v,1611043808,verilog,,F:/University Courses/SC2103/SC2103_Lab3/AM_top_tb.v,,multB,,,,,,,,

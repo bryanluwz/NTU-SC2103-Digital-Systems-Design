@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="uP16_top_tb_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="uP16_top_tb" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="317780000fs"></ZoomStartTime>
+      <ZoomEndTime time="515580001fs"></ZoomEndTime>
+      <Cursor1Time time="234267000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="164"></NameColumnWidth>
+      <ValueColumnWidth column_width="138"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="13" />
+   <wvobject fp_name="/uP16_top_tb/Clk" type="logic">
+      <obj_property name="ElementShortName">Clk</obj_property>
+      <obj_property name="ObjectShortName">Clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/uP16_top_tb/Rst" type="logic">
+      <obj_property name="ElementShortName">Rst</obj_property>
+      <obj_property name="ObjectShortName">Rst</obj_property>
+   </wvobject>
+   <wvobject fp_name="/uP16_top_tb/EX_ALUstatus_d" type="array">
+      <obj_property name="ElementShortName">EX_ALUstatus_d[3:0]</obj_property>
+      <obj_property name="ObjectShortName">EX_ALUstatus_d[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/uP16_top_tb/IF_inst_d" type="array">
+      <obj_property name="ElementShortName">IF_inst_d[17:0]</obj_property>
+      <obj_property name="ObjectShortName">IF_inst_d[17:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/uP16_top_tb/IF_currPC" type="array">
+      <obj_property name="ElementShortName">IF_currPC[15:0]</obj_property>
+      <obj_property name="ObjectShortName">IF_currPC[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/uP16_top_tb/uut/T3/EX_1/RegFile[0]" type="array">
+      <obj_property name="ElementShortName">[0][15:0]</obj_property>
+      <obj_property name="ObjectShortName">[0][15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/uP16_top_tb/uut/T3/EX_1/RegFile[1]" type="array">
+      <obj_property name="ElementShortName">[1][15:0]</obj_property>
+      <obj_property name="ObjectShortName">[1][15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/uP16_top_tb/uut/T3/EX_1/RegFile[2]" type="array">
+      <obj_property name="ElementShortName">[2][15:0]</obj_property>
+      <obj_property name="ObjectShortName">[2][15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/uP16_top_tb/uut/T3/EX_1/RegFile[3]" type="array">
+      <obj_property name="ElementShortName">[3][15:0]</obj_property>
+      <obj_property name="ObjectShortName">[3][15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/uP16_top_tb/uut/T3/EX_1/RegFile[4]" type="array">
+      <obj_property name="ElementShortName">[4][15:0]</obj_property>
+      <obj_property name="ObjectShortName">[4][15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/uP16_top_tb/uut/T3/EX_1/RegFile[5]" type="array">
+      <obj_property name="ElementShortName">[5][15:0]</obj_property>
+      <obj_property name="ObjectShortName">[5][15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/uP16_top_tb/uut/T3/EX_1/RegFile[6]" type="array">
+      <obj_property name="ElementShortName">[6][15:0]</obj_property>
+      <obj_property name="ObjectShortName">[6][15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/uP16_top_tb/uut/T3/EX_1/RegFile[7]" type="array">
+      <obj_property name="ElementShortName">[7][15:0]</obj_property>
+      <obj_property name="ObjectShortName">[7][15:0]</obj_property>
+   </wvobject>
+</wave_config>
